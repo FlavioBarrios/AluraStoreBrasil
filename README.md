@@ -8,3 +8,6 @@ Cada uma das quatro lojas tem seus dados sobre faturamento disponibilizados por 
 
 # Desenvolvimento
 Este projeto foi desenvolvido em Python com a biblioteca Pandas no ambiente Google Colab.
+
+#Uso
+Entre no Google Colab, carregue o notebook AluraStoreBrasil.ipynb e clique em Executar tudo.
